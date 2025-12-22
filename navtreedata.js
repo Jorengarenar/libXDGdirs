@@ -25,9 +25,9 @@
 var NAVTREE =
 [
   [ "libXDGdirs", "index.html", [
-    [ "Download", "^https://github.com/Jorengarenar/libXDGdirs/releases", null ],
-    [ "Changelog", "^https://github.com/Jorengarenar/libXDGdirs/blob/master/CHANGELOG.md", null ],
-    [ "License", "^https://github.com/Jorengarenar/libXDGdirs/blob/master/LICENSE", null ],
+    [ "Download", "^https://github.com/Jorenar/libXDGdirs/releases", null ],
+    [ "Changelog", "^https://github.com/Jorenar/libXDGdirs/blob/master/CHANGELOG.md", null ],
+    [ "License", "^https://github.com/Jorenar/libXDGdirs/blob/master/LICENSE", null ],
     [ "Topics", "topics.html", "topics" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
