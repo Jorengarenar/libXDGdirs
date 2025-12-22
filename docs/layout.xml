@@ -4,9 +4,9 @@
   <navindex>
     <tab type="mainpage" visible="yes" title=""/>
     <tab type="pages" visible="no" title="" intro=""/>
-    <tab type="user" url="https://github.com/Jorengarenar/libXDGdirs/releases" title="Download"/>
-    <tab type="user" url="https://github.com/Jorengarenar/libXDGdirs/blob/master/CHANGELOG.md" title="Changelog"/>
-    <tab type="user" url="https://github.com/Jorengarenar/libXDGdirs/blob/master/LICENSE" title="License"/>
+    <tab type="user" url="https://github.com/Jorenar/libXDGdirs/releases" title="Download"/>
+    <tab type="user" url="https://github.com/Jorenar/libXDGdirs/blob/master/CHANGELOG.md" title="Changelog"/>
+    <tab type="user" url="https://github.com/Jorenar/libXDGdirs/blob/master/LICENSE" title="License"/>
     <tab type="topics" visible="yes" title="" intro=""/>
     <tab type="namespaces" visible="yes" title="">
       <tab type="namespacelist" visible="yes" title="" intro=""/>
