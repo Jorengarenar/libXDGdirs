@@ -1,11 +1,11 @@
 libXDGdirs
 ==========
 
-An implementation of [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+A set of helpers for [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
 _XDGBDS_ defines four categories of dotfiles and the corresponding directories
 in user's home directory that should be used for those. The categories are
-cache, configuration, data, state and runtime files.
+cache, configuration, data, state, and runtime files.
 
 All those locations have corresponding `XDG_*` environment variables.
 
@@ -33,10 +33,6 @@ cmake --build build/ --config=Release
 ```sh
 cmake --install build/
 ```
-
-## Documentation
-
-[Documentation](https://jorenar.github.io/libXDGdirs) generated from **latest commit** using [Doxygen](https://www.doxygen.nl)
 
 ## Usage
 
