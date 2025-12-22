@@ -1,5 +1,5 @@
 /* SPDX-License-Identifier: MIT
- * Copyright 2020-2024 Jorengarenar
+ * Copyright 2020-2025 Jorenar
  */
 
 #include "xdgdirs.h"

@@ -1,5 +1,5 @@
 /* SPDX-License-Identifier: MIT
- * Copyright 2020-2024 Jorengarenar
+ * Copyright 2020-2025 Jorenar
  */
 
 #ifndef XDGDIRS_H_
@@ -16,7 +16,7 @@ extern "C" {
  *  @details
  *    Adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
  */
-#define XDGDIRS_VER "1.1.3"
+#define XDGDIRS_VER "1.1.3-4-master"
 
 /// Version of XDG Base Directory specification implemented in this library
 #define XDGBDS_VER "0.8"
